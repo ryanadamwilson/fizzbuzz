@@ -1,0 +1,17 @@
+#div1 {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#div1 > div {
+	float: left;
+ 	width: 200px;
+ 	border: 1px solid #000;
+ 	border-radius: 20px;
+ 	margin: 24px;
+ 	position: relative;
+ 	padding: 75px 0px;
+}
+.wrapper {
+	text-align: center;
+}
